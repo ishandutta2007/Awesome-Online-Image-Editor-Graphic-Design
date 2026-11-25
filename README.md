@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Online-Image-Editor-Graphic-Design/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Online-Image-Editor-Graphic-Design?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Online-Image-Editor-Graphic-Design/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Online-Image-Editor-Graphic-Design?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Online-Image-Editor-Graphic-Design/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Online-Image-Editor-Graphic-Design?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Online-Image-Editor-Graphic-Design/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License: CC0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -61,12 +61,12 @@ Below is the structured breakdown of the top commercial, browser-first design an
 
 The open-source design ecosystem provides powerful alternatives ranging from browser collaborative suites to desktop production editors. 
 
-Repositories are listed in **descending order of GitHub star count**. Each project includes a white social star badge directly linking to its stargazers page.
+Repositories are listed in **descending order of GitHub Stars_Count**. Each project includes a white social Stars_Badge directly linking to its stargazers page.
 
 ---
 
 ### 1. 🌟 [Excalidraw](https://github.com/excalidraw/excalidraw)
-[![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)
 * **Repository:** `excalidraw/excalidraw`
 * **Tech Stack:** TypeScript / React / Canvas API
 * **License:** MIT
@@ -76,7 +76,7 @@ Repositories are listed in **descending order of GitHub star count**. Each proje
 ---
 
 ### 2. 🌟 [Penpot](https://github.com/penpot/penpot)
-[![GitHub stars](https://img.shields.io/github/stars/penpot/penpot?style=social&color=white)](https://github.com/penpot/penpot/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/penpot/penpot?style=social&color=white)](https://github.com/penpot/penpot/stargazers)
 * **Repository:** `penpot/penpot`
 * **Tech Stack:** Clojure / ClojureScript / SVG / Web Standards
 * **License:** MPL-2.0
@@ -86,7 +86,7 @@ Repositories are listed in **descending order of GitHub star count**. Each proje
 ---
 
 ### 3. 🌟 [tldraw](https://github.com/tldraw/tldraw)
-[![GitHub stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)
 * **Repository:** `tldraw/tldraw`
 * **Tech Stack:** TypeScript / React / Canvas SDK
 * **License:** Apache-2.0 / tldraw SDK license
@@ -96,7 +96,7 @@ Repositories are listed in **descending order of GitHub star count**. Each proje
 ---
 
 ### 4. 🌟 [Fabric.js](https://github.com/fabricjs/fabric.js)
-[![GitHub stars](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social&color=white)](https://github.com/fabricjs/fabric.js/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social&color=white)](https://github.com/fabricjs/fabric.js/stargazers)
 * **Repository:** `fabricjs/fabric.js`
 * **Tech Stack:** JavaScript / HTML5 Canvas / Node.js
 * **License:** MIT
@@ -106,7 +106,7 @@ Repositories are listed in **descending order of GitHub star count**. Each proje
 ---
 
 ### 5. 🌟 [Cropper.js](https://github.com/fengyuanchen/cropperjs)
-[![GitHub stars](https://img.shields.io/github/stars/fengyuanchen/cropperjs?style=social&color=white)](https://github.com/fengyuanchen/cropperjs/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/fengyuanchen/cropperjs?style=social&color=white)](https://github.com/fengyuanchen/cropperjs/stargazers)
 * **Repository:** `fengyuanchen/cropperjs`
 * **Tech Stack:** JavaScript / CSS / HTML5
 * **License:** MIT
@@ -116,7 +116,7 @@ Repositories are listed in **descending order of GitHub star count**. Each proje
 ---
 
 ### 6. 🌟 [Krita](https://github.com/KDE/krita)
-[![GitHub stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers)
 * **Repository:** `KDE/krita`
 * **Tech Stack:** C++ / Qt / OpenGL
 * **License:** GPL-3.0
@@ -126,7 +126,7 @@ Repositories are listed in **descending order of GitHub star count**. Each proje
 ---
 
 ### 7. 🌟 [draw.io](https://github.com/jgraph/drawio)
-[![GitHub stars](https://img.shields.io/github/stars/jgraph/drawio?style=social&color=white)](https://github.com/jgraph/drawio/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/jgraph/drawio?style=social&color=white)](https://github.com/jgraph/drawio/stargazers)
 * **Repository:** `jgraph/drawio`
 * **Tech Stack:** JavaScript / mxGraph / HTML5
 * **License:** Apache-2.0
@@ -136,7 +136,7 @@ Repositories are listed in **descending order of GitHub star count**. Each proje
 ---
 
 ### 8. 🌟 [TOAST UI Image Editor](https://github.com/nhn/tui.image-editor)
-[![GitHub stars](https://img.shields.io/github/stars/nhn/tui.image-editor?style=social&color=white)](https://github.com/nhn/tui.image-editor/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/nhn/tui.image-editor?style=social&color=white)](https://github.com/nhn/tui.image-editor/stargazers)
 * **Repository:** `nhn/tui.image-editor`
 * **Tech Stack:** JavaScript / HTML5 Canvas / Fabric.js
 * **License:** MIT
@@ -146,7 +146,7 @@ Repositories are listed in **descending order of GitHub star count**. Each proje
 ---
 
 ### 9. 🌟 [GIMP](https://github.com/GNOME/gimp)
-[![GitHub stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers)
 * **Repository:** `GNOME/gimp`
 * **Tech Stack:** C / GTK / GEGL
 * **License:** GPL-3.0
@@ -156,7 +156,7 @@ Repositories are listed in **descending order of GitHub star count**. Each proje
 ---
 
 ### 10. 🌟 [Inkscape](https://github.com/inkscape/inkscape)
-[![GitHub stars](https://img.shields.io/github/stars/inkscape/inkscape?style=social&color=white)](https://github.com/inkscape/inkscape/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/inkscape/inkscape?style=social&color=white)](https://github.com/inkscape/inkscape/stargazers)
 * **Repository:** `inkscape/inkscape`
 * **Tech Stack:** C++ / GTK / SVG
 * **License:** GPL-3.0
@@ -166,7 +166,7 @@ Repositories are listed in **descending order of GitHub star count**. Each proje
 ---
 
 ### 11. 🌟 [miniPaint](https://github.com/viliusle/miniPaint)
-[![GitHub stars](https://img.shields.io/github/stars/viliusle/miniPaint?style=social&color=white)](https://github.com/viliusle/miniPaint/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/viliusle/miniPaint?style=social&color=white)](https://github.com/viliusle/miniPaint/stargazers)
 * **Repository:** `viliusle/miniPaint`
 * **Tech Stack:** JavaScript / HTML5 / CSS
 * **License:** MIT
@@ -176,7 +176,7 @@ Repositories are listed in **descending order of GitHub star count**. Each proje
 ---
 
 ### 12. 🌟 [Filerobot Image Editor](https://github.com/scaleflex/filerobot-image-editor)
-[![GitHub stars](https://img.shields.io/github/stars/scaleflex/filerobot-image-editor?style=social&color=white)](https://github.com/scaleflex/filerobot-image-editor/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/scaleflex/filerobot-image-editor?style=social&color=white)](https://github.com/scaleflex/filerobot-image-editor/stargazers)
 * **Repository:** `scaleflex/filerobot-image-editor`
 * **Tech Stack:** TypeScript / React / Konva.js
 * **License:** MIT
